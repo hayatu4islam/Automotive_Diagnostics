@@ -8,8 +8,15 @@ The aim is to identify patterns and factors of interest in order to provide mean
 
 The following problems are investigated:
 * Predicting vehicle states
+    * Engine overheating - Look for patterns in engine coolant temperature and intake air temperature to identify instances of overheating.
+    * Engine (poor) performance - Examine relationships between engine RPM, airflow rate, and vehicle speed to identify any patterns indicating poor engine performance. Find maximum fuel economy versus speed.
+    * Full efficiency - Explore how the absolute throttle position and accelerator pedal positions correlate with the vehicle speed and airflow rate to assess fuel efficiency.
+    * Throttle response - Analyse the data to understand how accelerator pedal positions D and E influence the engine RPM and vehicle speed, addressing potential throttle response problems.
 * Analysing driving behaviour
-* 
+    * hddh
+    * 
+* Visualising the speed and elevation on a map (From YT)
+
 
 ## Objectives:
 
