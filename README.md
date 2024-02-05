@@ -7,19 +7,26 @@ This project involves the analysis of a dataset comprising Engine Coolant Temper
 The aim is to identify patterns and factors of interest in order to provide meaningful insights.
 
 The following problems are investigated:
-* Predicting vehicle states
-    * Engine overheating - Look for patterns in engine coolant temperature and intake air temperature to identify instances of overheating.
-    * Engine (poor) performance - Examine relationships between engine RPM, airflow rate, and vehicle speed to identify any patterns indicating poor engine performance. Find maximum fuel economy versus speed.
-    * Full efficiency - Explore how the absolute throttle position and accelerator pedal positions correlate with the vehicle speed and airflow rate to assess fuel efficiency.
-    * Throttle response - Analyse the data to understand how accelerator pedal positions D and E influence the engine RPM and vehicle speed, addressing potential throttle response problems.
-* Analysing driving behaviour
+* **Predicting vehicle states**
+    * **Engine overheating** - Look for patterns in engine coolant temperature and intake air temperature to identify instances of overheating.
+    * **Engine (poor) performance** - Examine relationships between engine RPM, airflow rate, and vehicle speed to identify any patterns indicating poor engine performance. Find maximum fuel economy versus speed.
+    * **Full efficiency** - Explore how the absolute throttle position and accelerator pedal positions correlate with the vehicle speed and airflow rate to assess fuel efficiency.
+    * **Throttle response** - Analyse the data to understand how accelerator pedal positions D and E influence the engine RPM and vehicle speed, addressing potential throttle response problems.
+* **Analysing driving behaviour**
     * hddh
     * 
 * Visualising the speed and elevation on a map (From YT)
 
 
 ## Objectives:
-
+In order to achieve the aim of this project, the following are the objectives of the project:
+    * **Optimising fuel efficiency:** Identify combinations of throttle positions and engine RPM that result in optimal fuel efficiency.
+    * **Performance enhancement:** Explore patterns in the dataset to find ways to enhance overall engine and vehicle performance.
+    * **Fault detection:** Develop models to detect anomalies or patterns indicative of potential engine or vehicle issues, such as overheating or irregular throttle response.
+    * **Predictive maintenance:** Use the data to build predictive models that can anticipate maintenance needs based on changes in parameters like coolant temperature or airflow rate.
+    * **Driver behaviour analysis:** Explore how accelerator pedal positions relate to vehicle speed and engine RPM to understand driver behaviour and potentially improve driving habits for better efficiency.
+    * **Emission control:** Analyse the dataset to identify factors influencing emission levels, considering parameters like airflow rate and throttle positions.
+    
 
 
 ## Dataset
