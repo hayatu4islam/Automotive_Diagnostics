@@ -26,7 +26,10 @@ In order to achieve the aim of this project, the following are the objectives of
 * **Driver behaviour analysis:** Explore how accelerator pedal positions relate to vehicle speed and engine RPM to understand driver behaviour and potentially improve driving habits for better efficiency.
 * **Emission control:** Analyse the dataset to identify factors influencing emission levels, considering parameters like airflow rate and throttle positions.
     
-
+## Decision Makers
+* Drivers
+* Automotive Company
+* 
 
 ## Dataset
 The dataset used in this project is obtained from https://radar.kit.edu/radar/en/dataset/bCtGxdTklQlfQcAq#
