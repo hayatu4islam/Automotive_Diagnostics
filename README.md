@@ -1,6 +1,6 @@
 <p align="center"><img width="90%" height="250px" src="https://github.com/hayatu4islam/Automotive_Diagnostics/blob/main/OBD-banner.webp" /></p>
 
-## AUTOMOTIVE DIAGNOSTICS
+## UNVEILING AUTOMOTIVE INSIGHTS: AN OBD II DATA ANALYSIS
 
 This project involves the analysis of a dataset comprising Engine Coolant Temperature, Engine RPM, Vehicle Speed Sensor, etc.
 
