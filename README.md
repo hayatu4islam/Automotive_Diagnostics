@@ -22,8 +22,8 @@ In order to achieve the aim of this project, the following are the objectives of
 * **Optimising fuel efficiency:** Identify combinations of throttle positions and engine RPM that result in optimal fuel efficiency.
 * **Performance enhancement:** Explore patterns in the dataset to find ways to enhance overall engine and vehicle performance.
 * **Fault detection:** Develop models to detect anomalies or patterns indicative of potential engine or vehicle issues, such as overheating or irregular throttle response.
-* **Predictive maintenance:** Use the data to build predictive models that can anticipate maintenance needs based on changes in parameters like coolant temperature or airflow rate.
 * **Driver behaviour analysis:** Explore how accelerator pedal positions relate to vehicle speed and engine RPM to understand driver behaviour and potentially improve driving habits for better efficiency.
+* **Predictive maintenance:** Use the data to build predictive models that can anticipate maintenance needs based on changes in parameters like coolant temperature or airflow rate.
 * **Emission control:** Analyse the dataset to identify factors influencing emission levels, considering parameters like airflow rate and throttle positions.
     
 ## Decision Makers
